@@ -1,0 +1,15 @@
+{
+  "name": "project03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "bin": {
+    "project03": "www.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon ./bin/www"
+  },
+  "author": "",
+  "license": "ISC"
+}
